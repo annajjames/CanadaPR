@@ -14,5 +14,5 @@ have also looked at the factors like the country's total population, unemploymen
 
 ### Data Source & Cleansing
 
-https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550/resource/fdc69618-dd90-4f38-b040-3046ee6657db
-https://hdr.undp.org/en/content/download-data
+- https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550/resource/fdc69618-dd90-4f38-b040-3046ee6657db
+- https://hdr.undp.org/en/content/download-data
