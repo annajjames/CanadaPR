@@ -11,3 +11,8 @@ of these countries. The three dimensions of HDI are:
 
 In this project we have analysed and compared these key HDI dimensions of countries with the most number of PR applications to Canada. Further, we
 have also looked at the factors like the country's total population, unemployment rate, and percentage of educated population.
+
+### Data Source & Cleansing
+
+https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550/resource/fdc69618-dd90-4f38-b040-3046ee6657db
+https://hdr.undp.org/en/content/download-data
