@@ -16,3 +16,7 @@ have also compared the applicant country's total population, unemployment rate, 
 
 - https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550/resource/fdc69618-dd90-4f38-b040-3046ee6657db
 - https://hdr.undp.org/en/content/download-data - Human Development Data: All Tables and Dashboards & Statistical Data Tables 7-15 (excluding Table 14)
+
+
+
+![MapCountries](https://user-images.githubusercontent.com/58715002/184694859-88442b30-69d2-44f8-87ad-e8e7a568e206.png)
