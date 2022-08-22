@@ -13,7 +13,7 @@ of the applicant's countries. The three dimensions of HDI are:
 In this project we have analysed and compared the above key HDI dimensions as well as the population, unemployment rate, and percentage of educated population of the countries with the most number of PR applications to Canada.
 ![pr2015to20BarChart](https://user-images.githubusercontent.com/58715002/184933861-6b305f40-f113-40e0-9c69-fe3cdea35311.png)
 
-### Key Findings
+## Key Findings
 #### Human Development Index:
 - In contradiction to our hypothesis that the most number of PR applications to Canada will be from the ‘low’ HDI group, only 17.7 % of applications come from the ‘low’ HDI group. The top countries in the ‘low’ HDI group being Nigeria and Eriteria.
 ![hdigroups_%apps](https://user-images.githubusercontent.com/58715002/184934086-6c35bdf6-18e9-49a4-abc4-a300e629c9ff.png)
