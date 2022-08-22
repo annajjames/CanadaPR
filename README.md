@@ -1,5 +1,4 @@
 ## Introduction
-
 Canada has always been one of the countries with a large immigrant population in the world. There are around 300 to 500K PR applicants each year 
 according to the data source provided by the Government of Canada. Our group is curious about the push factors and the soci-economic status of the applicants'
 countries.
@@ -10,7 +9,8 @@ of the applicant's countries. The three dimensions of HDI are:
 - Average years spent in schooling 
 - Gross National Income (GNI)
 
-In this project we have analysed and compared these key HDI dimensions as well as the population, unemployment rate, and percentage of educated population of the countries with the most number of PR applications to Canada.
+## Objective
+In this project we have analysed and compared the above key HDI dimensions as well as the population, unemployment rate, and percentage of educated population of the countries with the most number of PR applications to Canada.
 ![pr2015to20BarChart](https://user-images.githubusercontent.com/58715002/184933861-6b305f40-f113-40e0-9c69-fe3cdea35311.png)
 
 ### Key Findings
