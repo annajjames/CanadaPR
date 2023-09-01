@@ -1,4 +1,8 @@
-## Introduction
+## Problem Statement
+Do countries with low Human Development Index (HDI) have the most Permanent Residency applications to Canada?
+How do these countries compare to Canada in the key HDI dimensions.
+
+## Background
 Canada has always been one of the countries with a large immigrant population in the world. There are around 300 to 500K PR applicants each year 
 according to the data source provided by the Government of Canada. Our group is curious about the push factors and the soci-economic status of the applicants'
 countries.
@@ -10,7 +14,7 @@ of the applicant's countries. The three dimensions of HDI are:
 - Gross National Income (GNI)
 
 ## Objective
-In this project we have analysed and compared the above key HDI dimensions as well as the population, unemployment rate, and percentage of educated population of the countries with the most number of PR applications to Canada.
+Analysed and compar the key HDI dimensions as well as the population, unemployment rate, and percentage of educated population of the countries with the most number of PR applications to that of Canada.
 ![pr2015to20BarChart](https://user-images.githubusercontent.com/58715002/184933861-6b305f40-f113-40e0-9c69-fe3cdea35311.png)
 
 ## Key Findings
@@ -18,11 +22,13 @@ In this project we have analysed and compared the above key HDI dimensions as we
 - In contradiction to our hypothesis that the most number of PR applications to Canada will be from the ‘low’ HDI group, only 17.7 % of applications come from the ‘low’ HDI group. The top countries in the ‘low’ HDI group being Nigeria and Eriteria.
 ![hdigroups_%apps](https://user-images.githubusercontent.com/58715002/184934086-6c35bdf6-18e9-49a4-abc4-a300e629c9ff.png)
 - A high concentration of applications come from specific countries in the 'medium' and 'high' HDI groups. India from the ‘medium’ group, and China and Phillippines from the ‘high’ group.
-- When we consider the percentage of PR applications in proportion to the population of the country, the top 9 countries are from the Caribbean region with 41% of the total population of St Vincent and Grenadines applying for PR to Canada. In comparison, only 0.007% of the Indian population is applying for PR to Canada.
+- When we consider the percentage of PR applications in proportion to the population of the country, the top 9 countries are from the Caribbean region.
+- Except Guyana which is ‘medium’ hdi, the top 9 countries from the Caribbean region fall under the ‘high’ HDI category.
 ![PopulationApp%](https://user-images.githubusercontent.com/58715002/184934206-497da73e-b611-412d-8c53-96364bbc2031.png)
 ![PopulationApp%_1](https://user-images.githubusercontent.com/58715002/184934284-3bf34f57-5ddd-45a2-8911-44a74716e0ac.png)
-- At 43% Eriteria has the highest percentage of PR applications to Canada in proportion to its population.
-- Except Guyana which is ‘medium’ hdi, the top 9 countries from the Caribbean region fall under the ‘high’HDI category.
+- At 43% Eriteria has the highest percentage of PR applications to Canada in proportion to its population. In comparison, only 
+0.007% of the Indian population is applying for PR to Canada.
+
 
 #### Gross National Income:
 ![gniGrp_%appsGraph](https://user-images.githubusercontent.com/58715002/184934154-18c893e9-ff48-4c46-b87e-230c30d11bd7.png)
@@ -45,9 +51,4 @@ In this project we have analysed and compared the above key HDI dimensions as we
 - For most countries in the Caribbean region unemployment rate is very high which is a likely factor for influencing PR applications.
 - France, a country from the ‘very high’ HDI group has high unemployment rate at 8.5% for 2019 which could be a likely factor, in addition to cultural similarities.
 - Unemployment rate of Canada for 2019 is less than 6%
-
-### Data Source
-
-- https://open.canada.ca/data/en/dataset/9b34e712-513f-44e9-babf-9df4f7256550/resource/fdc69618-dd90-4f38-b040-3046ee6657db
-- https://hdr.undp.org/en/content/download-data - Human Development Data: All Tables and Dashboards & Statistical Data Tables 7-15 (excluding Table 14)
 
